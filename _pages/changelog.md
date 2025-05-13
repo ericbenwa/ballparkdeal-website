@@ -7,11 +7,15 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.13**
+- Added a Lender Directory for finding financing
+- Miscellaneous updates
+
 # **Version 5.0.12**
 - Fixed an issue where Cash On Cash would display NaN if monthly cashflow was $0. Cash On Cash will display 0%.
 - Miscellaneous updates
 
-# **Version 5.0.11 (iOS only)**
+# **Version 5.0.11**
 - Fixed an issue where a property wouldn't save changes after a Down Payment of 0%.
 
 # **Version 5.0.10**
