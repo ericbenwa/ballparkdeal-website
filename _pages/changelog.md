@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.14**
+- Export a Property Report PDF
+- PRO subscribers can customize the Property Report PDF to include their contact information.
+
 # **Version 5.0.13**
 - Added a Lender Directory for finding financing
 - Miscellaneous updates
