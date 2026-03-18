@@ -89,6 +89,9 @@ footer_text_color                         : "#666666"
 
 
 
+plugins:
+  - jekyll-redirect-from
+
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
