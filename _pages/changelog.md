@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.17** (iOS only)
+- Miscellaneous updates
+
+# **Version 5.0.16** (iOS only)
+- Miscellaneous updates
+
 # **Version 5.0.15**
 - Export a Property Report PDF (background color changes)
 - PRO subscribers can customize the Property Report PDF to include their contact information.
