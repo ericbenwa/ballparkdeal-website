@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.19** (iOS only)
+- Dark Mode
+
+# **Version 5.0.18** (iOS only)
+- Miscellaneous updates
+
 # **Version 5.0.17** (iOS only)
 - Miscellaneous updates
 
