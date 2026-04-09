@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 5.0.20** (iOS only)
+- Fixed issue where Share buttons would not work on iOS 26
+
 # **Version 5.0.19** (iOS only)
 - Dark Mode
 
